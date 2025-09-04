@@ -1,2 +1,9 @@
-# Portfolio-hacking
-Mi portfolio de hacking: writeups, notas y proyectos personales.
+# Portfolio de Hacking de Alberto
+
+Documentación de mi aprendizaje en ciberseguridad: CTFs, notas y scripts.
+
+## Carpetas
+- writeups → CTFs/máquinas
+- notes → apuntes y cheatsheets
+- projects → scripts/herramientas
+
